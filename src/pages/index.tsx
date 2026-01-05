@@ -249,7 +249,7 @@ function Users() {
                         <a href="https://www.antfin.com/" target="_blank">蚂蚁金服</a>
                     </div>
                     <div className="card p-5 box-border text-center">
-                        <a href="https://www.zte.com.cn/china/" target="_blank">中兴科技</a>
+                        <a href="https://www.zte.com.cn/china/" target="_blank">中兴通讯</a>
                     </div>
                     <div className="card p-5 box-border text-center">
                         <a href="https://www.vivo.com/" target="_blank">VIVO</a>
